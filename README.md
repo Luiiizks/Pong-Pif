@@ -23,7 +23,8 @@ O objetivo é marcar pontos ao fazer a bola passar pela barra controlada pelo op
 - Modo clássico sem barreiras adicionais.
 
 ### Com Barreiras
-- Modo com barreiras móveis. As barreiras se movem após cada ponto marcado.
+- O modo com barreiras foi projetado para adicionar um desafio adicional à jogabilidade padrão. À medida que os jogadores avançam, diversas características são introduzidas para aumentar a dificuldade do jogo, proporcionando uma experiência mais desafiadora e envolvente.
+
 
 
 
