@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cli-lib-main.iml" filepath="$PROJECT_DIR$/.idea/cli-lib-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pong-Pif.iml" filepath="$PROJECT_DIR$/.idea/Pong-Pif.iml" />
     </modules>
   </component>
 </project>

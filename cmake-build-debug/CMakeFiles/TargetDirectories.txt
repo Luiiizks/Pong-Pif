@@ -1,3 +1,0 @@
-/Users/luizflavius/Documents/CLionProjects/Pong-Pif/cmake-build-debug/CMakeFiles/Pong_Pif.dir
-/Users/luizflavius/Documents/CLionProjects/Pong-Pif/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/luizflavius/Documents/CLionProjects/Pong-Pif/cmake-build-debug/CMakeFiles/rebuild_cache.dir
